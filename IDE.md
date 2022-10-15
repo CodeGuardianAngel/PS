@@ -15,3 +15,4 @@
 
 ## PyCharm 
 - [링크](https://www.jetbrains.com/pycharm/download/other.html)
+- [다운로드](https://download.jetbrains.com/python/pycharm-community-2018.2.8.exe)
