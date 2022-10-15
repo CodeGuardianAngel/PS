@@ -10,7 +10,7 @@
 ## Python
 - [링크](https://www.python.org/downloads/release/python-353/)
 - 다운로드 
-  - [64bit](https://www.python.org/ftp/python/3.5.3/python-3.5.3amd64.exe)
+  - [64bit](https://www.python.org/ftp/python/3.5.3/python-3.5.3-amd64.exe)
   - [32bit](https://www.python.org/ftp/python/3.5.3/python-3.5.3.exe)
 
 ## PyCharm 
