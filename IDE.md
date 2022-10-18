@@ -31,9 +31,11 @@
   - 설치 중간 PC 32/64bit 선택 필요 나머지 default 후 next
   - <img height="300" src="https://user-images.githubusercontent.com/114296778/196330976-dd1002eb-fc43-4f5d-9c7b-95bcc431b11c.png"></img>
 - 설치 후 
-  - Do not import settings → OK
-  - Don't send
-  - Darcula 선택
+  1. Do not import settings → OK
+  - <img height="150" src="https://user-images.githubusercontent.com/114296778/196331234-42be12fd-b378-4fbc-9b4a-aad215847fa6.png"></img>
+  2. Darcula 선택
+  - <img height="300" src="https://user-images.githubusercontent.com/114296778/196331411-119813c0-1c02-4fe6-8474-b958930c06df.png"></img>
+
   - Start 시 Configure → Settings
   - Project Interpreter → Show All → (C:\Program Files\Python35\python.exe)
   - pyp 9.0.1 / setuptools 28.8.0 (버전 확인)
