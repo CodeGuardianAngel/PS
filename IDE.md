@@ -16,11 +16,10 @@
   - [64bit](https://www.python.org/ftp/python/3.5.3/python-3.5.3-amd64.exe)
   - [32bit](https://www.python.org/ftp/python/3.5.3/python-3.5.3.exe)
 - 설치
-1. 옵션 선택 후 Customizze installation
-    - Install launcher for all users (recommonded)
-    - Add Python 3.5 to Path
-2. 옵션 선택 후 Next
-    - 전체 옵션 선택
+1. Add Python 3.5 to Path 체크 후 Customizze installation
+    - ![image](https://user-images.githubusercontent.com/114296778/196329074-16bf2302-ab1b-47bc-afca-a24c567df816.png)
+2. 전체 옵션 선택 → Next
+    - ![image](https://user-images.githubusercontent.com/114296778/196329206-474c0980-f7f4-402f-af8a-05276f1f161b.png)
 4. 옵션 선택 후 Next
     - Download debug binaries 빼고
 
