@@ -18,14 +18,10 @@
 - 설치
 1. Add Python 3.5 to Path 체크 후 Customizze installation
     - <img height="300" src="https://user-images.githubusercontent.com/114296778/196329074-16bf2302-ab1b-47bc-afca-a24c567df816.png"></img>
-    - ![image](https://user-images.githubusercontent.com/114296778/196329074-16bf2302-ab1b-47bc-afca-a24c567df816.png)
 2. 전체 옵션 선택 → Next
     - <img height="300" src="https://user-images.githubusercontent.com/114296778/196329272-5bbb3afa-4a71-48bc-9da5-3a89b5f5dacd.png"></img>
-    - ![image](https://user-images.githubusercontent.com/114296778/196329272-5bbb3afa-4a71-48bc-9da5-3a89b5f5dacd.png)
 4. Download debug binaries 빼고 → Next
     - <img height="300" src="https://user-images.githubusercontent.com/114296778/196329335-735dcb56-e836-434b-996a-835bb537694d.png"></img>
-    - ![image](https://user-images.githubusercontent.com/114296778/196329335-735dcb56-e836-434b-996a-835bb537694d.png)
-
 
 
 ## PyCharm 
