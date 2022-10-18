@@ -31,12 +31,13 @@
   - 설치 중간 PC 32/64bit 선택 필요 나머지 default 후 next
   - <img height="300" src="https://user-images.githubusercontent.com/114296778/196330976-dd1002eb-fc43-4f5d-9c7b-95bcc431b11c.png"></img>
 - 설치 후 
-  1. Do not import settings → OK
+1. Do not import settings → OK
   - <img height="150" src="https://user-images.githubusercontent.com/114296778/196331234-42be12fd-b378-4fbc-9b4a-aad215847fa6.png"></img>
-  2. Darcula 선택
+2. Skip Remaing set Defualts
   - <img height="300" src="https://user-images.githubusercontent.com/114296778/196331411-119813c0-1c02-4fe6-8474-b958930c06df.png"></img>
+3. Start 시 Configure → Settings
+  - <img width="498" alt="image" src="https://user-images.githubusercontent.com/114296778/196331656-069a6968-6417-41bc-b332-7b7eab4d3364.png">
 
-  - Start 시 Configure → Settings
   - Project Interpreter → Show All → (C:\Program Files\Python35\python.exe)
   - pyp 9.0.1 / setuptools 28.8.0 (버전 확인)
   - Apperance & Behavior → System Settings → Updates → Automatically check 체크 해제 → OK
