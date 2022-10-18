@@ -1,13 +1,12 @@
 # Visual Studio
 - [링크](https://visualstudio.microsoft.com/ko/free-developer-offers/)
 - 링크 이동 후 Visual Studio Community 다운 로드 버튼 클릭 (개인용 무료 버전)
-<img width="373" alt="image" src="https://user-images.githubusercontent.com/114296778/196328488-9f3c731c-2483-4078-9aeb-4fe5f9dca5e8.png">
+- <img width="280" alt="image" src="https://user-images.githubusercontent.com/114296778/196332644-007d0d6f-7baa-4cce-9eb1-7a0b1f1c5edd.png">
+- 실행 후
+- ![image](https://user-images.githubusercontent.com/114296778/196332563-b2c8f18e-4180-4adf-9c22-8d506371c31d.png)
 
 
 
-# Eclipse
-- Eclipse
-- JDK
 
 # Python
 ## Python
@@ -42,3 +41,8 @@
   - <img width="700" alt="image" src="https://user-images.githubusercontent.com/114296778/196332053-205b3131-c09c-49a5-9100-d50c89e6479c.png"></img>
 5. Apperance & Behavior → System Settings → Updates → Automatically check 체크 해제 → OK
   - <img width="700" alt="image" src="https://user-images.githubusercontent.com/114296778/196332308-b9132546-4631-4ab1-ab1a-21c00c11ae54.png"></img>
+
+
+# Eclipse
+- Eclipse
+- JDK
