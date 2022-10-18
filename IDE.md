@@ -40,6 +40,5 @@
 4. Project Interpreter → Show All → + → (C:\Program Files\Python35\python.exe) → OK
   - <img width="757" alt="image" src="https://user-images.githubusercontent.com/114296778/196331921-4df75300-ef25-4298-be0c-a00fc1d4cf79.png">
   - <img width="700" alt="image" src="https://user-images.githubusercontent.com/114296778/196332053-205b3131-c09c-49a5-9100-d50c89e6479c.png"></img>
-
-  - pyp 9.0.1 / setuptools 28.8.0 (버전 확인)
-  - Apperance & Behavior → System Settings → Updates → Automatically check 체크 해제 → OK
+5. Apperance & Behavior → System Settings → Updates → Automatically check 체크 해제 → OK
+  - <img width="700" alt="image" src="https://user-images.githubusercontent.com/114296778/196332308-b9132546-4631-4ab1-ab1a-21c00c11ae54.png"></img>
