@@ -29,6 +29,7 @@
 - [다운로드](https://download.jetbrains.com/python/pycharm-community-2018.2.8.exe)
 - 설치
   - 설치 중간 PC 32/64bit 선택 필요 나머지 default 후 next
+  - <img height="300" src="https://user-images.githubusercontent.com/114296778/196330976-dd1002eb-fc43-4f5d-9c7b-95bcc431b11c.png"></img>
   - Do not import settings → OK
   - Don't send
   - Darcula 선택
