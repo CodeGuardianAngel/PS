@@ -9,4 +9,4 @@
 ## 문제 리스트
 |구분|1일차|2일차|3일차|4일차|5일차|
 |:--|:--|:--|:--|:--|:--|
-|문제 |[단지번호붙이기](https://www.acmicpc.net/problem/2667) <br> [미로탐색](https://www.acmicpc.net/problem/2178)||||
+|문제 |[단지번호붙이기](https://www.acmicpc.net/problem/2667) <br> [미로탐색](https://www.acmicpc.net/problem/2178)|[연구소](https://www.acmicpc.net/problem/14502)|||
